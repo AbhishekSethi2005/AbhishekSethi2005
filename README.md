@@ -21,7 +21,13 @@
 <a href="https://www.hackerrank.com/abhishek sethi" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="abhishek sethi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhishek sethi" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3628885-3030025.png?f=webp&w=256" alt="abhishek sethi" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/abhishek sethi" target="blank"><img align="center" src="https://camo.githubusercontent.com/ed3612f2bf68161fec53ac380bd21a49936d94815bb526778de2c480af7377ea/68747470733a2f2f6d656469612e63646e2e67726164636f6e6e656374696f6e2e636f6d2f75706c6f6164732f38636461373562322d383338342d343762652d616630622d3663316434333134626330612d4841434b455245415254485f4c4f474f2e706e67" alt="abhishek sethi" height="30" width="40" /></a>
+<a href="https://twitter.com/AbhishekSe58977" target="blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968958.png" alt="Twitter" width="30" height="40"/> </a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/3665/3665923.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="c" width="40" height="40"/> </a> </p> 
+<p align="left">
+<a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/3665/3665923.png" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="js" width="40" height="40"/> </a>
+</p> 
