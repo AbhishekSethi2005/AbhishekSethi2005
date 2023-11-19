@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sethiabhi15@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/joqu9](https://shorturl.at/joqu9)
+- 📄 Know about my experiences **[https://shorturl.at/joqu9](https://shorturl.at/joqu9)**
 
 - ⚡ Fun fact **Every single thing I do, I give my best**
 
