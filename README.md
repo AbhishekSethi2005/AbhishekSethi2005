@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sethiabhi15@gmail.com**
 
-- 📄 Know about my portfolio **[https://rb.gy/042d9q)**
+- 📄 Know about my portfolio **[https://rb.gy/042d9q]**
 
 - ⚡ Fun fact **Every single thing I do, I give my best**
 
