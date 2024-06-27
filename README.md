@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/AbhishekSethi2005/AbhishekSethi2005/assets/143688066/790acaf3-9e76-47e6-aca5-21c74a5c9ad6" alt="abhishekanandsethi2020" height="300" width="4000" />
 
 <h1 align="center">Hi 👋, I'm Abhishek Sethi</h1>
-<h3 align="center">Persuing FY B-Tech IT in Sanjivani College Of Engineering | Programming Enthusiasts | Graphic Designer | Researcher</h3>
+<h3 align="center">Persuing SY B-Tech IT in Sanjivani College Of Engineering | Programming Enthusiasts | Graphic Designer | Researcher</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksethi2005" alt="abhisheksethi2005" /></a> </p>
 
