@@ -65,6 +65,6 @@
   <img src="https://komarev.com/ghpvc/?username=abhisheksethi2005&style=for-the-badge&color=blue" alt=""/>
 </div>
 
-<br>
+<hr>
 
 <img align="center" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" height="300" width="4000" />
